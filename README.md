@@ -1,5 +1,6 @@
 Hi! I'm heejin :)
 
+[Portfolio](https://www.notion.so/a703986720774fd4ba30bf9597ad81d6) [Blog](https://heejin99.github.io)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=heejin99&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
